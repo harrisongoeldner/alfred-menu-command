@@ -1,0 +1,8 @@
+on alfred_script(q)
+
+tell application "System Events"
+	set activeApp to name of application processes whose frontmost is true
+	return activeApp
+end tell
+
+end alfred_script

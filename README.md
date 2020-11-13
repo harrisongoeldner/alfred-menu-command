@@ -5,7 +5,7 @@ Operates single menu command on current window
 Developed by Harrison Goeldner
 Version 1.0
 
-Icon made by Freepik from www.flaticon.com
+*Icon made by Freepik from www.flaticon.com*
 
 ## About
 

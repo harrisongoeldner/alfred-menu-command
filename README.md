@@ -1,0 +1,1 @@
+# alfred-menu-command

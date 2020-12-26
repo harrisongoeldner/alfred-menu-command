@@ -1,5 +1,4 @@
 # alfred-menu-command
-# alfred-password-generator
 Operates single menu command on current window
 
 Developed by Harrison Goeldner
